@@ -4,7 +4,7 @@ An end-to-end sales analytics dashboard built with Power BI,
 covering data cleaning, DAX modeling, and interactive visualization.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](<img width="1331" height="742" alt="Screenshot 2026-09-22 164356" src="https://github.com/user-attachments/assets/082017d1-5de4-4e45-9abc-bacf4ce6bb5d" />
+![Dashboard Screenshot](https://github.com/PooriyaJHP/superstore-sales-dashboard/blob/3540dba5df907499dd10012fde54e61622f3c36c/Screenshot%202026-09-22%20164356.png
 )
 
 ## 🛠️ Tools Used
